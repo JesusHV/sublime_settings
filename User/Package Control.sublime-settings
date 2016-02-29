@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Better Close Window",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Materialize",
+		"MatlabFilenameAutoComplete",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeREPL",
+		"Sync Settings",
+		"Trimmer"
+	]
+}
